@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.product {
+	background-color: #eae8e1;
+	padding: 1em; 
+	border-radius: 6px; 
+}
